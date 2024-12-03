@@ -1,1 +1,2 @@
 # Netflix-Data-Visualization
+The Netflix Data Visualization project analyzes Netflix’s content library, focusing on trends like content additions over time, genre and rating distributions, and target audience preferences across countries. It uses visualizations such as bar charts, heatmaps, and line graphs to showcase patterns and regional strategies, revealing Netflix's focus on diverse demographics and specific genres. 
